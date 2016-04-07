@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "anjelo2009@live.com",
+    "longName": "win31",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/krnl386_000.png",
+                "name": "IMAGE_WIN_1",
+                "type": "png"
+            },
+            {
+                "file": "fonts/MSSansSerif.ttf",
+                "name": "FONT_PERFECT_DOS_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/MSSansSerif.ttf",
+                "name": "FONT_PERFECT_DOS_27",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "win31",
+    "uuid": "60717fe6-9dc3-4ac9-bd7a-e1ece16ad6d9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
